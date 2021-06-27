@@ -1,0 +1,25 @@
+﻿@model Ekart.Models.Category
+
+@{
+    ViewData["Title"] = TempData["Title"]+" Details" ;
+}
+
+<h1>@TempData["Title"]</h1>
+
+<h4>@ViewData["Title"]</h4>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CategoryName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

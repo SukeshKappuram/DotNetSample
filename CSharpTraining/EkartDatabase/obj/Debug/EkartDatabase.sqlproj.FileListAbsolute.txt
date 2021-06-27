@@ -1,0 +1,10 @@
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\bin\Debug\EkartDatabase.dacpac
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\bin\Debug\EkartDatabase.dll
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\bin\Debug\EkartDatabase.pdb
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\EkartDatabase.sqlprojAssemblyReference.cache
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\Model.xml
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\refactor.xml
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\postdeploy.sql
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\predeploy.sql
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\EkartDatabase.dll
+D:\Samples\CSharpTraining\CSharpTraining\EkartDatabase\obj\Debug\EkartDatabase.pdb
